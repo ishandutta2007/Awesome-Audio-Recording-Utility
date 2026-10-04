@@ -59,7 +59,7 @@ Below is a structured breakdown of commercial audio recording utilities and SaaS
 
 ## ⭐ Open-Source GitHub Projects
 
-The open-source audio ecosystem is exceptionally mature, production-proven, and actively maintained. Projects below are sorted by **GitHub Stars (Descending)**.
+The open-source audio ecosystem is exceptionally mature, production-proven, and actively maintained. Projects below are sorted by **GitHub_Stars (Descending)**.
 
 ### 🎛️ Full-Featured DAWs & Editors
 
